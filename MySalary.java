@@ -1,7 +1,5 @@
 package test;
 
-import java.util.Scanner;
-
 public class MySalary {
     public static int day = 0;
     public static int stroki = 0;
